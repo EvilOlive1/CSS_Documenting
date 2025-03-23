@@ -39,3 +39,24 @@ Its called index because its what servers automatically go
 
 ## Module 2.4 : The doctype, head and body
 
+`<html>` is the root of the document or "root element"
+
+`<head>` is the hidden part of file
+
+Provide extra info about the document
+
+- Author
+- Description of the page
+- Date the document was published
+- ISO
+- Shutterspeed
+
+Search engines will see this information
+
+`<body>` is where visitors can see the page
+
+XHTML is XML language and its another markup language
+
+`<!DOCTYPE html>` tells the browser that its an HTML5 doc
+
+Fortunately, HTML5 is the final version
