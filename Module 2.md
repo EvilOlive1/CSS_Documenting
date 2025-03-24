@@ -11,7 +11,7 @@ CSS = Cascading Style Sheets
 
 Javascript = Interactivity
 
-- Opoening mensus, popups, handling dynamic content, etr
+- Opening menus, popups, handling dynamic content, etc
 
 These are what makes a website
 
@@ -60,3 +60,31 @@ XHTML is XML language and its another markup language
 `<!DOCTYPE html>` tells the browser that its an HTML5 doc
 
 Fortunately, HTML5 is the final version
+
+## Module 2.5 : Opening our site in the browser
+
+`ctrl + s` or `cmd + s` to save the file
+
+## Module 2.6 : Headings and Paragraphs
+
+To denote the hierarchy of the website, we use heading levels
+
+IMPORTANT: You can only have one h1 per page (Should)
+
+There is h2 to h6 (No h7 or higher)
+
+Formatting:
+
+- h1 = HTML is awesome!
+  - h2 = What is HTML?
+  - h2 = Basic page structure
+    - h3 = The doctype
+    - h3 = The head
+    - h3 = The body
+  - h2 = Marking up your content
+    - h3 = Headings
+    - h3 = Paragraphs
+    - h3 = Lists
+
+## Module 2.7 : Nesting
+
