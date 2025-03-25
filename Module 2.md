@@ -88,3 +88,70 @@ Formatting:
 
 ## Module 2.7 : Nesting
 
+`<html>` contains `<head>` and `<body>`
+
+`<head>` contains `<title>`
+
+`<body>` contains `<h1>`, `<h2>`, `<p>`, etc
+
+<body>
+  <header>
+    <h1>Welcome to TechKnows</h1>
+    <p>Your one-stop destination for all things tech.</p>
+  </header>
+  <main>
+    <section>
+      <h2>About Us</h2>
+      <p>We are a team of passionate tech enthusiasts.</p>
+      <p>Our mission is to provide the latest tech news and reviews.</p>
+    </section>
+    <section>
+      <h2>Services</h2>
+      <p>We offer a wide range of tech-related services.</p>
+      <p>From consulting to product reviews, we've got you covered.</p>
+    </section>
+  </main>
+  <footer>
+    <p>© 2025 TechKnows. All rights reserved.</p>
+  </footer>
+<body>
+
+`<body>` is the parent of `<header>`, `<main>`, and `<footer>`
+
+Those 3 are siblings to each other
+
+## Module 2.8 : Lists
+
+3 different lists in HTML:
+
+- Ordered lists
+- Unordered lists
+- Description lists
+
+### Ordered Lists
+
+Numbered list is used with `<ol>`
+
+### Unordered Lists
+
+Unordered list is used with `<ul>`
+
+### Description Lists
+
+Description list is used with `<li>`
+
+```html
+<ol>
+  <li>Item one</li>
+  <li>Item two</li>
+  <li>Item two</li>
+</ol>
+<ul>
+  <li>Item one</li>
+  <li>Item two</li>
+  <li>Item two</li>
+</ul>
+```
+
+## Module 2.9 : Organizing our content with semantic elements
+
