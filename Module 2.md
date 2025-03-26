@@ -155,3 +155,41 @@ Description list is used with `<li>`
 
 ## Module 2.9 : Organizing our content with semantic elements
 
+```html
+<body>
+  <header>
+    <!-- logo + navigation -->
+  </header>
+  
+  <main>
+    <!-- the majority of the content -->
+    <section> <!-- a section of content --> </section>
+    <section> <!-- another section of content --> </section>
+    <section> <!-- yet another --> </section>
+  </main>
+  
+  <footer>
+    <!-- copyright, sometimes another nav
+         social links, contact, etc. -->
+  </footer>
+</body>
+```
+
+## Module 2.10 : Comments
+
+```html
+<!--This is a comment-->
+```
+
+## Module 2.11 : Strong and Emphasis
+
+`<strong>` strong importance (Bold)
+`<em>` emphasis (Italics)
+
+## Module 2.12 : Black and Inline elements
+
+`<section>` are block elements and they stack on top of each other
+`<p>` are inline elements and they auto create new line
+
+## Module 2.13 : Creating the second page
+
